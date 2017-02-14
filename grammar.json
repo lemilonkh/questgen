@@ -1,0 +1,21 @@
+{
+	"origin": "#walk.capitalize# #place# and #task# the #adjective# #animal# that #inhabits# #place#!",
+	"animal": [
+		"crocodile", "panda", "leopard", "raven", "scorpion", "sparrow", "ananas"
+	],
+	"adjective": [
+		"pompous", "mighty", "slow", "ancient", "lonely", "distant", "late", "soon to be dead", "hilarious"
+	],
+	"inhabits": [
+		"lives in", "inhabits", "walks around", "terrorizes", "scorches", "jumps around"
+	],
+	"walk": [
+		"go to", "find", "explore", "discover"
+	],
+	"place": [
+		"Markovia", "Grunerstan", "Potzdupimi", "the Ancient Weald", "the Challenger Riff", "Berlin"
+	],
+	"task": [
+		"kill", "talk to", "barter with", "skin", "eat", "burn", "listen to", "steal", "watch"
+	]
+}
