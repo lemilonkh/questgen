@@ -1,3 +1,4 @@
+'use strict';
 // index.js
 // Part of project QuestGen
 // (c) 2017 by Milan Gruner
@@ -5,12 +6,11 @@
 
 var lineCount = 30;
 
-var tracery = require('tracery-grammar');
+var QuestGen = require('./questgen');
 var grammarData = require('./grammar.json');
 
-var grammar = tracery.createGrammar(grammarData);
-grammar.addModifiers(tracery.baseEngModifiers);
+var q = new QuestGen(grammarData);
 
 for(var i = 0; i < lineCount; i++) {
-	console.log(grammar.flatten('#origin#'));
+	console.log(q.generate('#origin#'));
 }

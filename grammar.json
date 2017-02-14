@@ -5,7 +5,7 @@
 
 	"quest": "#walk.capitalize# #place# and #task# the #adjective# #animal# that #inhabits# #place#!",
 	"story": "#time.capitalize# there was #creature.a# which #inhabited# #place#. The #adjective# #job# set out to #task# it, #facing# #challenges# during his #questName#.",
-	"backstory": "#name.capitalize#, the #adjective# #job#, was born in #place#. He #studied# #studies# in #place# before #walking# to #place# and #tasking# the #creature# that #inhabited# it.",
+	"backstory": "#name.capitalize#, the #adjective# #job#, was born in #place#. He #studied# #studies# in #place# before #walking# #place# and #tasking# the #creature# that #inhabited# it.",
 
 	"name": [
 		"Geralt", "Jan", "Ehrbert", "Franziskus", "Rahatash", "Mr. McKnorkin", "St. Hubertikerinius", "George", "Mc. Flono Mc. Fluniloo", "#adjective# master"
