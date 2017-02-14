@@ -10,33 +10,33 @@ Future ideas include a markov chain based name generation system and support for
 * Profit
 
 ## Examples
-* Go to Potzdupimi and listen to the mighty crocodile that inhabits Grunerstan!
-* Go to Berlin and steal the late sparrow that lives in Potzdupimi!
-* Discover Markovia and listen to the pompous raven that scorches the Challenger Riff!
-* Discover the Challenger Riff and barter with the distant sparrow that inhabits Potzdupimi!
-* Discover the Ancient Weald and eat the lonely panda that walks around Potzdupimi!
-* Find Markovia and listen to the distant panda that lives in Grunerstan!
-* Go to Potzdupimi and kill the mighty panda that jumps around Potzdupimi!
-* Find the Ancient Weald and burn the distant leopard that terrorizes Grunerstan!
-* Go to Markovia and listen to the late leopard that inhabits the Challenger Riff!
-* Discover the Challenger Riff and skin the mighty crocodile that terrorizes Grunerstan!
-* Go to the Challenger Riff and steal the ancient raven that inhabits the Challenger Riff!
-* Find Markovia and watch the slow leopard that inhabits the Challenger Riff!
-* Discover Markovia and barter with the soon to be dead crocodile that scorches Berlin!
-* Explore the Ancient Weald and listen to the hilarious ananas that lives in the Ancient Weald!
-* Explore Berlin and watch the soon to be dead ananas that lives in Berlin!
-* Find Berlin and talk to the mighty leopard that scorches Markovia!
-* Discover the Challenger Riff and skin the hilarious sparrow that lives in Potzdupimi!
-* Go to Berlin and burn the distant ananas that inhabits Potzdupimi!
-* Explore Grunerstan and burn the distant leopard that lives in Potzdupimi!
-* Explore Potzdupimi and burn the hilarious panda that lives in Berlin!
-* Go to Potzdupimi and talk to the distant raven that inhabits the Challenger Riff!
-* Explore Potzdupimi and talk to the mighty raven that walks around Markovia!
-* Discover the Challenger Riff and skin the soon to be dead sparrow that terrorizes the Challenger Riff!
-* Go to the Challenger Riff and skin the distant ananas that terrorizes the Ancient Weald!
-* Go to Berlin and barter with the distant raven that scorches Potzdupimi!
-* Explore Potzdupimi and eat the slow ananas that lives in the Ancient Weald!
-* Find Potzdupimi and talk to the soon to be dead leopard that scorches Grunerstan!
-* Find Markovia and talk to the soon to be dead scorpion that lives in Berlin!
-* Find Markovia and steal the pompous sparrow that terrorizes the Ancient Weald!
-* Discover Potzdupimi and kill the mighty ananas that jumps around the Ancient Weald!
+George, the ancient baker, was born in Markovia. He studied business in Grunerstan before going to to Grunerstan and burning the Medusa that terrorized it.
+In the far future there was a basilisk which was found in Potzdupimi. The soon to be dead president of someplace never before seen by a human eye set out to barter with it, was greeted by minor challenges during his travels.
+Franziskus, the soon to be dead shopkeep in Grunerstan, was born in the Ancient Weald. He was interested in engineering in Berlin before finding to Markovia and stealing the werewolf that inhabited it.
+Geralt, the distant shopkeep in Potzdupimi, was born in Potzdupimi. He had a curiosity for chemistry in the Ancient Weald before discovering to the Challenger Riff and stealing the Medusa that inhabited it.
+In a long lost age there was a werewolf which lived in a long forgotten place. The soon to be dead warrior set out to barter with it, facing impossible challenges during his task.
+Ehrbert, the lonely mage, was born in a long forgotten place. He had a curiosity for medicine in Markovia before going to to Markovia and talking to the yeti that jumped around it.
+Some time last week there was a dragon which inhabited Potzdupimi. The soon to be dead blacksmith set out to watch it, facing no challenges during his affair.
+Mighty master, the distant blacksmith, was born in the Ancient Weald. He researched business in a long forgotten place before going to to Berlin and listening to the werewolf that jumped around it.
+Go to a long forgotten place and talk to the hilarious leopard that scorches Markovia!
+In the far future there was a whatwolf which terrorized someplace never before seen by a human eye. The hilarious knight set out to barter with it, but found himself listen toing no challenges during his travels.
+Mc. Flono Mc. Fluniloo, the hilarious president of a long forgotten place, was born in Berlin. He was interested in IT in someplace never before seen by a human eye before discovering to Berlin and burning the whomwolf that jumped around it.
+Go to the Challenger Riff and skin the ancient crocodile that scorches Markovia!
+Mc. Flono Mc. Fluniloo, the pompous blacksmith, was born in the Ancient Weald. He had a curiosity for chemistry in Grunerstan before finding to the Ancient Weald and stealing the Medusa that jumped around it.
+In the far future there was a whatwolf which scorched a long forgotten place. The soon to be dead president of Berlin set out to eat it, facing a soon to be dead challenge during his journey.
+St. Hubertikerinius, the late shopkeep in Markovia, was born in Berlin. He had a curiosity for engineering in Markovia before discovering to a long forgotten place and eating the dragon that scorched it.
+St. Hubertikerinius, the hilarious warrior, was born in Potzdupimi. He had a curiosity for chemistry in someplace never before seen by a human eye before finding to Potzdupimi and bartering with the yeti that was found in it.
+Find Markovia and kill the distant panda that found in a long forgotten place!
+Rahatash, the distant mage, was born in the Ancient Weald. He researched business in the Ancient Weald before discovering to a long forgotten place and killing the griffon that inhabited it.
+Geralt, the slow mage, was born in Markovia. He had a curiosity for particle physics in a long forgotten place before going to to Berlin and killing the whomwolf that lived in it.
+Explore Potzdupimi and skin the lonely ananas that terrorizes someplace never before seen by a human eye!
+In a long lost age there was a larkin which lived in a long forgotten place. The soon to be dead knight set out to kill it, but was met with medium challenges during his journey.
+In the far future there was a whomwolf which was found in a long forgotten place. The pompous warrior set out to barter with it, but was met with a mighty challenge during his journey.
+Find the Ancient Weald and skin the pompous leopard that walks around a long forgotten place!
+Mr. McKnorkin, the slow shopkeep in the Ancient Weald, was born in the Ancient Weald. He researched chemistry in someplace never before seen by a human eye before going to to someplace never before seen by a human eye and eating the yeti that lived in it.
+Find Grunerstan and barter with the slow ananas that jumps around Markovia!
+Geralt, the pompous knight, was born in Potzdupimi. He was interested in astrophysics in Markovia before going to to Berlin and stealing the basilisk that scorched it.
+Once upon a time there was a basilisk which walked around Berlin. The mighty president of Potzdupimi set out to steal it, facing major challenges during his quest.
+In the far future there was a larkin which terrorized the Challenger Riff. The slow mage set out to listen to it, but found himself talk toing minor struggles during his job.
+Discover the Ancient Weald and barter with the slow leopard that found in Potzdupimi!
+Some time last week there was a whatwolf which jumped around Potzdupimi. The mighty warrior set out to kill it, but found himself skining impossible struggles during his journey.
