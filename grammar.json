@@ -1,21 +1,67 @@
 {
-	"origin": "#walk.capitalize# #place# and #task# the #adjective# #animal# that #inhabits# #place#!",
+	"origin": [
+		"#quest#", "#story#", "#backstory#"
+	],
+
+	"quest": "#walk.capitalize# #place# and #task# the #adjective# #animal# that #inhabits# #place#!",
+	"story": "#time.capitalize# there was #creature.a# which #inhabited# #place#. The #adjective# #job# set out to #task# it, #facing# #challenges# during his #questName#.",
+	"backstory": "#name.capitalize#, the #adjective# #job#, was born in #place#. He #studied# #studies# in #place# before #walking# to #place# and #tasking# the #creature# that #inhabited# it.",
+
+	"name": [
+		"Geralt", "Jan", "Ehrbert", "Franziskus", "Rahatash", "Mr. McKnorkin", "St. Hubertikerinius", "George", "Mc. Flono Mc. Fluniloo", "#adjective# master"
+	],
+	"studied": [
+		"researched", "studied", "was interested in", "had a curiosity for"
+	],
+	"studies": [
+		"biology", "chemistry", "particle physics", "astrophysics", "IT", "engineering", "mathematics", "medicine", "business"
+	],
+	"questName": [
+		"journey", "quest", "travels", "affair", "job", "task"
+	],
+	"time": [
+		"once upon a time", "some time last week", "centuries ago", "in a long lost age", "in the far future"
+	],
+	"facing": [
+		"but was met with", "facing", "was greeted by", "but found himself #task#ing"
+	],
+	"challenges": [
+		"#strength# challenges", "#adjective.a# challenge", "#adjective# struggles", "#strength# struggles"
+	],
+	"strength": [
+		"no", "minor", "medium", "major", "impossible"
+	],
 	"animal": [
 		"crocodile", "panda", "leopard", "raven", "scorpion", "sparrow", "ananas"
+	],
+	"creature": [
+		"dragon", "yeti", "werewolf", "whatwolf", "Medusa", "whomwolf", "larkin", "hydra", "griffon", "basilisk"
+	],
+	"job": [
+		"knight", "warrior", "mage", "blacksmith", "baker", "president of #place#", "shopkeep in #place#"
 	],
 	"adjective": [
 		"pompous", "mighty", "slow", "ancient", "lonely", "distant", "late", "soon to be dead", "hilarious"
 	],
 	"inhabits": [
-		"lives in", "inhabits", "walks around", "terrorizes", "scorches", "jumps around"
+		"lives in", "inhabits", "walks around", "terrorizes", "scorches", "jumps around", "found in"
+	],
+	"inhabited": [
+		"lived in", "inhabited", "walked around", "terrorized", "scorched", "jumped around", "was found in"
 	],
 	"walk": [
 		"go to", "find", "explore", "discover"
 	],
+	"walking": [
+		"going to", "finding", "exploring", "discovering"
+	],
 	"place": [
-		"Markovia", "Grunerstan", "Potzdupimi", "the Ancient Weald", "the Challenger Riff", "Berlin"
+		"Markovia", "Grunerstan", "Potzdupimi", "the Ancient Weald", "the Challenger Riff", "Berlin", "a long forgotten place", "someplace never before seen by a human eye"
 	],
 	"task": [
 		"kill", "talk to", "barter with", "skin", "eat", "burn", "listen to", "steal", "watch"
+	],
+	"tasking": [
+		"killing", "talking to", "bartering with", "skinning", "eating", "burning", "listening to", "stealing", "watching"
 	]
 }
