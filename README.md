@@ -21,4 +21,4 @@ console.log(q.generate('#origin#'));
 * Not yet available as a npm package
 
 ## Examples
-See `examples.txt`
+For some example output see [examples.txt](examples.txt).
